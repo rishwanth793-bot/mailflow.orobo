@@ -1,0 +1,6 @@
+{
+  "name": "MailFlow — Smart Community Mail Automation",
+  "description": "Production-ready community announcement and email automation platform with group management, personalized delivery, history tracking, and AI writing assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
